@@ -1,0 +1,1 @@
+Hey Pablo, the file above is the same thing as what is in our main.py except it has sound and music. Repl doesn't support using the sound interface for pygame and so we used another IDLE to add the music. You should download the file to play the game with music in another IDLE to get the full effect :D
